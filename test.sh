@@ -96,6 +96,11 @@ echo
 go run main.go test_toomanyants.txt
 echo
 echo --------------------------------------
+echo empty file
+echo
+go run main.go example0.txt
+echo
+echo --------------------------------------
 echo
 echo "Thank you :)"
 exit 0
